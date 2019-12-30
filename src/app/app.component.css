@@ -1,0 +1,28 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #66cccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  text-align: center;
+}
+
+.nickname {
+  margin: .5rem 0;
+  font-size: 2rem;
+  background-color: #ffcc00;
+  border: 0;
+
+}
+
+.picture {
+  margin: .5rem 0;
+  width: 80vw;
+  height: 80vw;
+  background-color: #ff6666;
+}
